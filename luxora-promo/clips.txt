@@ -1,0 +1,6 @@
+file '/home/user/video/luxora-promo/clips/beat1.mp4'
+file '/home/user/video/luxora-promo/clips/beat2.mp4'
+file '/home/user/video/luxora-promo/clips/beat3.mp4'
+file '/home/user/video/luxora-promo/clips/beat4.mp4'
+file '/home/user/video/luxora-promo/clips/beat5.mp4'
+file '/home/user/video/luxora-promo/clips/beat6.mp4'

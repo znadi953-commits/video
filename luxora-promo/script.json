@@ -1,0 +1,49 @@
+{
+  "brand": "LUXORA",
+  "lang": "ar",
+  "voice": "voice-00",
+  "beats": [
+    {
+      "id": "beat1",
+      "role": "HOOK",
+      "narration": "تخيّلي بوتيكاً كاملاً… بلمسة ملكية، وتجربة من بيتك؟",
+      "caption": "بوتيك ملكي؟ من بيتك؟",
+      "img_prompt": "Luxury fashion boutique interior, royal aesthetic, warm golden lighting, premium elegant clothing on display, sophisticated cinematic mood, vertical 9:16, gold and deep navy palette, LUXORA brand"
+    },
+    {
+      "id": "beat2",
+      "role": "SETUP",
+      "narration": "هذه هي لوكسورا… بوتيك بريميوم يجمع الأناقة والراحة.",
+      "caption": "لوكسورا — الأناقة والراحة",
+      "img_prompt": "Elegant luxury brand emblem on a pedestal, glowing gold monogram, deep navy background, premium minimalist, cinematic vertical 9:16, sophisticated"
+    },
+    {
+      "id": "beat3",
+      "role": "REVEAL",
+      "narration": "قطع فاخرة، وتشكيلة بثلاث لغات: فرنسية، إنجليزية، وعربية.",
+      "caption": "بثلاث لغات: فرنسي، إنجليزي، عربي",
+      "img_prompt": "Luxury fashion lookbook opened to three language pages with Arabic script, gold accents, cream and navy, elegant flat lay, cinematic vertical 9:16"
+    },
+    {
+      "id": "beat4",
+      "role": "REVEAL",
+      "narration": "مع أكثر من عشرين تجربة حيّة، ومخزن كامل من القوالب والحزم.",
+      "caption": "20+ تجربة حيّة… ومخزن كامل",
+      "img_prompt": "Grid of twenty glowing app preview cards floating like a digital vault, luxury templates and packs, gold and navy, futuristic elegant, cinematic vertical 9:16"
+    },
+    {
+      "id": "beat5",
+      "role": "TWIST",
+      "narration": "والأجمل؟ تُعاينين كل شيء قبل أن تشتري.",
+      "caption": "شوفي قبل ما تشري",
+      "img_prompt": "Happy woman smiling while browsing luxury shopping on a smartphone, cozy elegant home, soft light, premium feel, cinematic vertical 9:16, gold navy palette"
+    },
+    {
+      "id": "beat6",
+      "role": "LOOP",
+      "narration": "لوكسورا… التأنّق بلا تعقيد. ابدئي اليوم.",
+      "caption": "لوكسورا — ابدئي اليوم",
+      "img_prompt": "Elegant call-to-action banner with LUXORA wordmark, gold foil on deep navy, luxurious minimal, cinematic vertical 9:16, sparkle accents"
+    }
+  ]
+}
